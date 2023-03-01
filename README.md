@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                About Me
 👋 My name is Fabrizio, I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the full-stack web developer career at @SoyHenry<br>⏩ Currently studying the second year of computer engineering<br>📈 Learning about back-end techonologies
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riziodev&label=Profile%20views&color=0e75b6&style=flat" alt="riziodev" /> </p>
