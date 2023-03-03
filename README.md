@@ -7,7 +7,6 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
 
 - Using JavaScript, NodeJS, ReactJS, PostgreSQL, HTML & CSS
 - Critical thinking, decision-making and problem solving skills
-- Some python coding
 - Soft skills: Critical thinking, problem-solving, teamwork & communication
 
 ## ✉ Contact
