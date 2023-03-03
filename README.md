@@ -20,4 +20,4 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
 
 ## ✉ Contact
 <p> Email: peloalder@gmail.com </p>
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
