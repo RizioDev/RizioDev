@@ -25,12 +25,6 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
   ![Node.js](https://img.shields.io/badge/-Node.js-696969?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-696969?style=flat&logo=express)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fbrz1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fbrz1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrz1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fbrz1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
