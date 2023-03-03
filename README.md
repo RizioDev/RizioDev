@@ -12,10 +12,6 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
 ## ✉ Contact
 <p> Email: peloalder@gmail.com </p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabri__a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabrizio-alderete/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC7A4dt-6JglxDoViVbkD3Ig) 
-
 # 💻Languages and Tools:
  ![HTML5](https://img.shields.io/badge/-HTML5-696969?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-696969?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,12 +20,7 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
   ![Redux](https://img.shields.io/badge/-Redux-696969?style=flat&logo=redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-696969?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-696969?style=flat&logo=express)
+  
+  ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabri__a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabrizio-alderete/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC7A4dt-6JglxDoViVbkD3Ig) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fbrz1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
