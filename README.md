@@ -20,7 +20,7 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
 
 ## ✉ Contact
 <p> Email: peloalder@gmail.com </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabrizio-alderete/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabrizio-alderete/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC7A4dt-6JglxDoViVbkD3Ig) 
 
   
   ## 🌐 Socials:
