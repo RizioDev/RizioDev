@@ -1,8 +1,6 @@
 # 👋 What's up? ;)
 I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the full-stack web developer career at @SoyHenry<br>⏩ Currently studying the second year of computer engineering<br>📈 Learning about back-end techonologies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riziodev&label=Profile%20views&color=0e75b6&style=flat" alt="riziodev" /> </p>
-
 # 💻Languages and Tools:
  ![HTML5](https://img.shields.io/badge/-HTML5-696969?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-696969?style=flat&logo=CSS3&logoColor=1572B6)
