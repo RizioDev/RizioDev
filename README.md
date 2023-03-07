@@ -12,9 +12,9 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
 
 # 💡 Skills
 
-- Using JavaScript, NodeJS, ReactJS, PostgreSQL, HTML & CSS
-- Critical thinking, decision-making and problem solving skills
-- Soft skills: Critical thinking, problem-solving, teamwork & communication
+- Using JavaScript, NodeJS, ReactJS, PostgreSQL, HTML & CSS.
+- Critical thinking, decision-making and problem solving skills.
+- Soft skills: Critical thinking, problem-solving, teamwork & communication.
 
 ## ✉ Contact
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
