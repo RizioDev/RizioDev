@@ -1,5 +1,6 @@
 # 👋 What's up? ;)
 I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the full-stack web developer career at @SoyHenry<br>⏩ Currently studying the second year of computer engineering<br>📈 Learning about back-end techonologies
+https://riziodev.github.io/portfolio/
 
 # 💻Languages and Tools:
  ![HTML5](https://img.shields.io/badge/-HTML5-696969?style=flat&logo=HTML5)
@@ -9,6 +10,7 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
   ![Redux](https://img.shields.io/badge/-Redux-696969?style=flat&logo=redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-696969?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-696969?style=flat&logo=express)
+  
 
 # 💡 Skills
 
@@ -19,4 +21,4 @@ I'm from Argentina and I'm Jr full-stack developer.<br>🎓 Graduated in the ful
 ## ✉ Contact
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-PORTFOLIO: https://riziodev.github.io/portfolio/
+
